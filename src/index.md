@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "F3liz Docs"
   text: "iz mah house!"
-  tagline: Mai big speshul thingy wordz
+  tagline: My great project tagline
   actions:
     - theme: brand
       text: Markdown Examples
@@ -22,4 +22,4 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
+aaa
